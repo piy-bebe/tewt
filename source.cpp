@@ -2,12 +2,12 @@
 using namespace std;
 
 int main() {
-  setlocale(0, "");
+	setlocale(0, "");
 
 
-  cout << "ÐŸÑ€Ð¸Ð²ÐµÑ‚ Ð¼Ð¸Ñ€!!!!)";
+	cout << "Ïðèâåò ìèð!!!!)";
 
 
 
-  return 0;
+	return 0;
 }
